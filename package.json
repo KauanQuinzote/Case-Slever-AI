@@ -1,0 +1,39 @@
+{
+  "name": "case-slever-ai",
+  "version": "1.0.0",
+  "description": "This repo is for a case that i recieved for a  job interview. The enterprise is Slever AI, a startup that trains AI models to create new seller AI agents.",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/main.js",
+    "typecheck": "tsc --noEmit",
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KauanQuinzote/Case-Slever-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KauanQuinzote/Case-Slever-AI/issues"
+  },
+  "homepage": "https://github.com/KauanQuinzote/Case-Slever-AI#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.6.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.9",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^3.0.65",
+    "ai": "^6.0.170",
+    "dotenv": "^17.4.2",
+    "zod": "^4.3.6"
+  }
+}
