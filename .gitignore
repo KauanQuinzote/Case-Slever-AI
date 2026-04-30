@@ -4,4 +4,4 @@ dist/
 .env.*
 !.env.example
 *.log
-clientes_ocultos.json
+data/results/clientes_ocultos.json

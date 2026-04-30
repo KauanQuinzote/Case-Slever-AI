@@ -1,0 +1,101 @@
+{
+  "conversations": [
+    {
+      "result": {
+        "conversation": [
+          {
+            "role": "seller",
+            "message": "Oi! Tudo bem? Posso te ajudar com alguma informação?"
+          },
+          {
+            "role": "client",
+            "message": "Estou bem, obrigado! Quero perder peso, mas não sei qual plano é melhor pra mim, posso ter algumas opções?"
+          },
+          {
+            "role": "seller",
+            "message": "Pra começar, qual é o seu nome? E me conta um pouco sobre o que você procura em um plano de treino e nutrição? Quer perder peso de forma rápida ou está procurando algo mais sustentável a longo prazo?"
+          },
+          {
+            "role": "client",
+            "message": "Me chamo Luana, e estou procurando algo sustentável a longo prazo, pois já tentei dietas rápidas antes e não deu certo. Quero aprender a me alimentar melhor e fazer exercícios que eu possa manter por muito tempo."
+          },
+          {
+            "role": "seller",
+            "message": "Luana, que bacana! Então, você tá procurando algo que dure pra sempre, não é mesmo? Nós temos dois planos principais: o Trimestral e o Anual. Qual deles te parece mais interessante? Ou você quer saber mais sobre cada um antes de decidir?"
+          },
+          {
+            "role": "client",
+            "message": "Gostaria de saber mais sobre cada um dos planos, por favor. Qual é o foco do Trimestral e do Anual, e como eles podem me ajudar a alcançar meus objetivos de perder peso e manter um estilo de vida saudável?"
+          },
+          {
+            "role": "seller",
+            "message": "Luana, o plano Trimestral é ideal pra quem quer começar a ver resultados rapidamente, mas ainda está testando as águas. Já o Anual é nossa opção mais popular, pois oferece um acompanhamento mais prolongado e uma adaptação contínua do plano de treino e nutrição de acordo com o seu progresso. Qual dos dois te chama mais atenção? 🤔"
+          },
+          {
+            "role": "client",
+            "message": "Acho que o plano Anual seria mais adequado pra mim, pois estou procurando algo sustentável a longo prazo. Posso saber mais sobre como funciona o acompanhamento contínuo e como vocês adaptam o plano de acordo com o progresso do cliente?"
+          },
+          {
+            "role": "seller",
+            "message": "Luana, o plano Anual é mesmo uma ótima escolha pra quem busca sustentabilidade! Nós reajustamos o plano de treino e nutrição a cada 2 semanas, com base no progresso do cliente. Além disso, você terá acesso a um chat com nutricionista, de segunda a sexta, das 8h às 18h, pra tirar dúvidas ou pedir ajustes no plano. Quer saber mais sobre os preços e como funciona o pagamento?"
+          },
+          {
+            "role": "client",
+            "message": "Sim, eu gostaria de saber mais sobre os preços e como funciona o pagamento do plano Anual, por favor. E também, vocês oferecem algum tipo de garantia ou suporte adicional caso eu não esteja satisfeita com o progresso?"
+          },
+          {
+            "role": "seller",
+            "message": "Luana, o plano Anual custa R$598,80 em 12x sem juros no cartão, ou R$478,90 à vista via PIX, com 20% de desconto. Temos uma garantia de 7 dias, onde você pode cancelar e receber o reembolso total, sem precisar justificar. Além disso, você terá acesso a todo o suporte que mencionei anteriormente, como o chat com nutricionista e a comunidade no Telegram. Quer que eu te envie o link para você fazer a compra?"
+          },
+          {
+            "role": "client",
+            "message": "Sim, por favor, envie o link para que eu possa fazer a compra do plano Anual. E também, como funciona a comunidade no Telegram, é um grupo fechado apenas para clientes do plano Anual?"
+          },
+          {
+            "role": "seller",
+            "message": "Luana, o link para a compra do plano Anual é https://fitflow.com.br/checkout/anual?cupom=10off. A comunidade no Telegram é um grupo exclusivo para todos os alunos da FitFlow, não apenas do plano Anual, onde você pode compartilhar experiências, progresso e se motivar com outros alunos. 📱"
+          },
+          {
+            "role": "client",
+            "message": "Obrigada por me enviar o link, Cara! Vou fazer a compra agora e estou ansiosa para começar o plano Anual e participar da comunidade no Telegram. Você acha que eu receberei algum material ou instruções adicionais após a compra para começar?"
+          },
+          {
+            "role": "seller",
+            "message": "Luana, que ótimo! Sim, após a compra, você receberá um email com todas as instruções para começar, incluindo o acesso ao plano de treino e nutrição personalizado, ao chat com nutricionista e à comunidade no Telegram. Se tiver alguma dúvida, é só me chamar! 📱"
+          },
+          {
+            "role": "client",
+            "message": "Cara, tudo bem! Acabei de fazer a compra do plano Anual e estou muito animada para começar. Você pode me confirmar se o pagamento foi processado corretamente e se eu vou receber o email com as instruções para começar logo?"
+          },
+          {
+            "role": "seller",
+            "message": "Luana, parabéns pela compra! Vou verificar se tudo foi processado corretamente. Você deve receber um email de confirmação em instantes com todas as instruções para começar. Se tiver alguma dúvida ou não receber o email, é só me chamar! 📱"
+          },
+          {
+            "role": "client",
+            "message": "Cara, obrigada por tudo! Recebi o email com as instruções e estou pronta para começar. Você pode me desejar boa sorte nessa jornada de mudança de estilo de vida? Estou muito animada para ver os resultados! 🙏"
+          },
+          {
+            "role": "seller",
+            "message": "Luana, que ótimo! Estou muito feliz por você! Desejo toda a boa sorte nessa jornada, e estou certa de que você vai alcançar seus objetivos. Lembre-se de que estou aqui se precisar de qualquer coisa, e não hesite em entrar em contato. Você vai fazer um excelente trabalho, e vou estar torcendo por você! 🙏"
+          },
+          {
+            "role": "client",
+            "message": "Muito obrigada, Cara! Você foi super atenciosa e ajudou muito. Vou começar agora e estou ansiosa para ver os resultados. Se tiver alguma dúvida, vou entrar em contato. Até mais! 🙏"
+          }
+        ],
+        "metadata": {
+          "totalMessages": 20,
+          "sellerMessages": 10,
+          "clientMessages": 10
+        }
+      }
+    }
+  ],
+  "totals": {
+    "hiddenClientsProcessed": 1,
+    "totalMessages": 20,
+    "totalSellerMessages": 10,
+    "totalClientMessages": 10
+  }
+}
